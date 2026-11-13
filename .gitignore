@@ -146,6 +146,9 @@ rabbitmq-data/
 # ActiveMQ
 activemq-data/
 
+# SQLite database
+*.db
+
 # SageMath parsed files
 *.sage.py
 
